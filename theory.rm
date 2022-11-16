@@ -1,0 +1,20 @@
+var pierwaZmienna = 'pierwsza'
+
+const drugaZmienna = 'druga'
+
+let trzeciaZmienna = 'trzecia'
+
+
+function pierwszaFunkcja() {
+
+}
+
+
+function funkcja() {
+    console.log('funkcja')
+}
+
+const funkcjaStzalkowa = () => {
+    console.log('funkcja strzalkowa')
+}
+
